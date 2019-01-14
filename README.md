@@ -1,4 +1,4 @@
-#sequential-decision-making-for-a-humanod-robot
+# sequential-decision-making-for-a-humanod-robot
 This repository contains source code, LaTeX templates, and figures of the our on-going study whic will be appeared on [Humanoids 2016](http://humanoids2016.org/). Note that the current state of the repository does not contain finalized source code.
 
 > .. one must build a thing to truly understand it.
